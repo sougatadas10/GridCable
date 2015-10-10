@@ -1,6 +1,6 @@
 var mysql = require('mysql');
 
-/* Add customers. */
+/* Create mysql connection. */
 
 module.exports = {
 execute:function(){
