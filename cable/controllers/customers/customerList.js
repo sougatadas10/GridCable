@@ -4,7 +4,7 @@ var mysql = require('mysql');
 
 module.exports = {
 execute:function(res,next){
-	console.log('in here3');
+	//console.log('in here3');
 	//create connection
 	var connection = require('../../dbUtils/createConnection');
 	var mysqlConnect=connection.execute();
