@@ -1,3 +1,4 @@
+/* Date 3 May 2017 */
 var mysql = require('mysql');
 
 /* Add customers. */
